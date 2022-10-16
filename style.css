@@ -1,0 +1,20 @@
+.wrapper{
+    background: wheat;
+    min-height: 100vh;
+}
+
+
+li{
+    margin-bottom: 0.3rem;
+
+}
+
+i {
+    background: rgb(82, 174, 203);
+    width: 30px;
+    height: 30px;
+    padding-left: 8px;
+    padding-top: 7px;
+    border-radius: 20%;
+}
+
